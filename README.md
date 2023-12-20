@@ -1,16 +1,13 @@
-# mini_project
+# Mini Project
 
-A new Flutter project.
+Aplikasi technical test
 
-## Getting Started
+Penggunaan API
+- [Regres](https://reqres.in/)
 
-This project is a starting point for a Flutter application.
+Menggunakan state management :
+- BloC
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Cara install dari Repo Mini Project:
+- git clone (url link https)
+- jalan kan function diterminal IDE repo Clothing One "flutter pub run build_runner build --delete-conflicting-outputs"
